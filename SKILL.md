@@ -1,3 +1,15 @@
+---
+name: huangdaxian-lingqian
+description: |
+  香港黄大仙祠同款灵签，一签一解心诚则灵。随机抽签或指定签号，输出签诗+典故+分类解签。
+  Triggers: 黄大仙, 灵签, 抽签, 求签, 解签, 算命, 占卜
+  Does NOT trigger: 西方塔罗, 星座运势, 八字命理
+  Output: 签号+签题+签诗+典故+吉凶+事业/姻缘/财运/健康等分类详解
+version: 1.0.0
+user-invocable: true
+metadata: {"openclaw": {"requires": {"bins": ["python3"]}}}
+---
+
 # 黄大仙灵签
 
 > **一签一解，心诚则灵。**
@@ -61,7 +73,7 @@
 
 ## 抽签流程
 
-### 作为Skill使用
+### 作为 Skill 使用
 
 1. 用户提问（如"帮我抽支签看看最近的事业运"）
 2. 心诚随机抽取一支签（或用户指定签号如"我要第25签"）
