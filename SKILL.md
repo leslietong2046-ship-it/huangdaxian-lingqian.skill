@@ -1,3 +1,17 @@
+---
+name: huangdaxian-lingqian
+description: |
+  香港黄大仙祠同款灵签，共100支完整签文，带详细解签。
+  触发关键词：黄大仙、灵签、抽签、求签、解签、港式、民俗、算命
+version: 1.0.0
+metadata:
+  openclaw:
+    requires:
+      env: []
+      bins: ["python3"]
+    primaryEnv: ""
+    emoji: "🏮"
+---
 # 黄大仙灵签
 
 > **一签一解，心诚则灵。**
