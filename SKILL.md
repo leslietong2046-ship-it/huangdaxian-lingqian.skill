@@ -3,7 +3,7 @@ name: huangdaxian-lingqian
 description: |
   香港黄大仙祠同款灵签，共100支完整签文，带详细解签。
   触发关键词：黄大仙、灵签、抽签、求签、解签、港式、民俗、算命、帮我抽一签、看看运势、最近运气、问事业
-version: 2.0.0
+version: 2.0.3
 metadata:
   openclaw:
     requires:
